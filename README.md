@@ -32,8 +32,8 @@
 <br>
 <h3 align="left">Connect with me: </h3>
 <p  align="left">
-<a href="https://linkedin.com/in/avinashraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avinashraj" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/codiowhiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codiowhiz" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/avinash-raj-724945217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avinashraj" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@codiowhiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codiowhiz" height="30" width="40" /></a>
 </p>
 <br>
 <h3 align="left">Languages and Tools:</h3>
