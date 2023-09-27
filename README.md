@@ -51,12 +51,14 @@
   </a>
 </p> -->
 ## 👨‍💻 Github Stats
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avinashraj-151&show_icons=true&locale=en&layout=compact&theme=dark" alt="avinashraj-151" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avinashraj-151&show_icons=true&locale=en&theme=dark" alt="avinashraj-151" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avinashraj-151&theme=dark" alt="avinashraj-151" /></p>
 <p align="left">
+  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
