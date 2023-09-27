@@ -3,6 +3,9 @@
 </p>
 <h1 align="center">Hi 👋, I'm Avinash Raj</h1>
 <h3 align="center">Passion fuels my coding journey, driving constant skill improvement and excellence</h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Nice+to+meet+you+!;I+am+Code+Enthusiast.)](https://git.io/typing-svg)
+
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" />
 
 
