@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Avinash Raj (:computer:)</h1>
 
-<h3 align="center">Passion fuels my coding journey, driving constant skill improvement and excellence</h3>
+<h3 align="center">Fueled by Passion : A Journey of Constant Skill Improvement and Excellence in Coding</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-circle&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/avinash-raj-724945217/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-circle&logo=google-chrome&logoColor=white)](https://theanalyticsexplorer.com/)
